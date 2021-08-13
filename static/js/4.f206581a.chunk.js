@@ -1,2 +1,0 @@
-(this.webpackJsonphritikkumbhar=this.webpackJsonphritikkumbhar||[]).push([[4],{139:function(e,n,t){"use strict";t.r(n),t.d(n,"Resume",(function(){return i}));var r=t(0),u=t.n(r),i=function(){return u.a.createElement("div",null,"Resume...")}}}]);
-//# sourceMappingURL=4.f206581a.chunk.js.map

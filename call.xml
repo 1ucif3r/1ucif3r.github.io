@@ -1,4 +1,0 @@
-<Response>
-<Say voice="alice">HELLO i am hritik say hi to me </Say>
-<Play>http://demo.twilio.com/docs/classic.mp3</Play>
-</Response>
